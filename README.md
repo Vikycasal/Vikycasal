@@ -1,6 +1,6 @@
 <h2>Hi 👋🏼, I'm Victoria Casal</h2>
 
-<h4>💻📲 Actualmente estoy trabajando en Polarycs (📍Chile), como desarrolladora Full Stack.</h4>
+<h4>💻📲 Actualmente estoy trabajando en Kaba Law Group P.P.L.C (📍Miami, Florida), como Backend Developer.</h4>
 
 📫 How to reach me victoria.casalf@gmail.com / Como contactarme victoria.casalf@gmail.com
 
